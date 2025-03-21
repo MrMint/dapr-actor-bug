@@ -1,0 +1,13 @@
+{
+  "name": "dapr-actor-bug",
+  "workspaces": [
+    "services/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
